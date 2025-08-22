@@ -1,3 +1,4 @@
 /inventory/
 *.ini
 *.yml 
+*.pub
